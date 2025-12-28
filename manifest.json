@@ -1,0 +1,22 @@
+
+{
+  "name": "AI Task Dash",
+  "short_name": "TaskDash",
+  "description": "AI 驱动的智能任务管理",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fcfdfe",
+  "theme_color": "#137fec",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=TaskDash&backgroundColor=137fec",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=TaskDash&backgroundColor=137fec",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

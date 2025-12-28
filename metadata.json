@@ -1,0 +1,5 @@
+{
+  "name": "AI Task Dash",
+  "description": "A sophisticated task management application that leverages Gemini AI to transform natural language sentences into structured tasks, featuring a clean dashboard, timeline view, and calendar integration.",
+  "requestFramePermissions": []
+}
